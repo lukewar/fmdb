@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "83C73F0A1C326ADA00FFC730"
+               BlueprintIdentifier = "756B5B35217F5A8E00D9BC49"
                BuildableName = "FMDB.framework"
-               BlueprintName = "FMDB MacOS"
+               BlueprintName = "FMDB Universal"
                ReferencedContainer = "container:fmdb.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,6 +29,15 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "756B5B35217F5A8E00D9BC49"
+            BuildableName = "FMDB.framework"
+            BlueprintName = "FMDB Universal"
+            ReferencedContainer = "container:fmdb.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -45,9 +54,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "83C73F0A1C326ADA00FFC730"
+            BlueprintIdentifier = "756B5B35217F5A8E00D9BC49"
             BuildableName = "FMDB.framework"
-            BlueprintName = "FMDB MacOS"
+            BlueprintName = "FMDB Universal"
             ReferencedContainer = "container:fmdb.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -63,9 +72,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "83C73F0A1C326ADA00FFC730"
+            BlueprintIdentifier = "756B5B35217F5A8E00D9BC49"
             BuildableName = "FMDB.framework"
-            BlueprintName = "FMDB MacOS"
+            BlueprintName = "FMDB Universal"
             ReferencedContainer = "container:fmdb.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
